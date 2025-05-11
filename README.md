@@ -1,2 +1,12 @@
-# Python-AI-Scrapper
-A AI scrapper extract the content from website based on url and you can ask question based on website you extract pull related to content
+# AI Web Scraper with Streamlit + LLM
+
+This project scrapes websites using Selenium and extracts structured data using TinyLLaMA (Langchain + Ollama).
+
+## Features
+- Headless browser scraping with Selenium
+- LLM-based information extraction
+- Streamlit web interface
+
+## Installation
+```bash
+pip install -r requirements.txt
